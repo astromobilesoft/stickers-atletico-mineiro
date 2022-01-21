@@ -7,6 +7,12 @@
          "name":"Club",
          "animated_sticker_pack":false,
          "stickers":"15"
+      },      
+      {
+         "identifier":"dt1",
+         "name":"DT",
+         "animated_sticker_pack":false,
+         "stickers":"15"
       }
    ]
 }
