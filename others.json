@@ -4,6 +4,12 @@
    "sticker_packs":[
       {
          "identifier":"brasileirao2122j37",
+         "name":"Campeão Supercopa",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"brasileirao2122j37",
          "name":"vs Bragantino",
          "animated_sticker_pack":false,
          "stickers":"15"
