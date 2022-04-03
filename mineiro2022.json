@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"mineiro2022campeao",
+         "name":"Campeão Mineiro 22",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
          "identifier":"mineiro2022f1",
          "name":"vs Cruzeiro",
          "animated_sticker_pack":false,
