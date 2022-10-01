@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"team2022b",
+         "name":"Jogadores 2022",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
          "identifier":"team2022",
-         "name":"Pack Jogadores",
+         "name":"Pack Jogadores (1)",
          "animated_sticker_pack":false,
          "stickers":"30"
       },
