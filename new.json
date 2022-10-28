@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"brasileirao2022j34a",
+         "name":"vs Juventude (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"brasileirao2022j34b",
+         "name":"vs Juventude (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"brasileirao2022j30",
          "name":"vs Santos",
          "animated_sticker_pack":false,
