@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2025a",
+         "name":"Camisa 2025 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },   
+      {
+         "identifier":"kit2025b",
+         "name":"Camisa 2025 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },   
+      {
          "identifier":"team2025",
          "name":"Jogadores 2025",
          "animated_sticker_pack":false,
